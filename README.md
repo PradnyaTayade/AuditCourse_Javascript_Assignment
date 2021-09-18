@@ -1,5 +1,4 @@
-![s1](https://user-images.githubusercontent.com/88725002/133882494-ff07d2de-8e27-4ba3-86d5-787a1c36a630.png)
-![s1](https://user-images.githubusercontent.com/88725002/133882512-84731528-7c5e-4465-90fa-6513b87bb1ed.png)
+
 # AuditCourse_Javascript_Assignment
 In this assignment i have used external javascript.
 
@@ -29,4 +28,25 @@ In HTML <input type=" "> is an important element of HTML form. The "type" attrib
 The <select> element defines a drop-down list.The <option> elements defines an option that can be selected.
 
 By default, the first item in the drop-down list is selected.
+To define a pre-selected option, add the selected attribute to the option.
+
+
+  
+  
+  
+  
+  document.getElementById() - returns an Element object representing the element whose id property matches the specified string.
+  
+  
+  querySelector() - returns the first element that matches the specified selectors.
+  
+  
+  
+  
+
+alert() - This method is used to display virtual alert box.
+
+
+
+  
   
