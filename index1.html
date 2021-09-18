@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css">
+    <title>Registration form using javascript</title>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Singing competition registration form</h1>
+        </div>
+    <hr>
+    <form class="form" id="form" name="info-form">
+            <div class="form-control"> 
+                <table>
+                    <tr>
+                        <td><label>First Name:</label></td>
+                        <td>
+                            <input type="text" id="t1" placeholder="First Name" required />
+                        </td>
+                    </tr>
+                </table>
+                
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
+                <small>Error Message</small>
+            </div>
+            <div class="form-control"> 
+                <table>
+                    <tr>
+                        <td><label>Last Name:</label></td>
+                        <td>
+                            <input type="text" id="t2" placeholder="Last Name" required />
+                        </td>
+                    </tr>
+                </table>
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
+                <small>Error Message</small>
+            </div>
+
+            <div class="form-control">
+                <table>
+                    <tr>
+                        <td><label>Phone Number:</label></td>
+                        <td>
+                            <input type="tel" pattern="^\d{10}$" id="t3" placeholder="Enter your Phone Number" required />
+                        </td>
+                    </tr>
+                </table>
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
+                <small>Error Message</small>
+            </div>
+            <div class="form-control">
+                <table>
+                    <tr>
+                        <td><label>Email:</label></td>
+                        <td>
+                            <input type="email" id="t4" placeholder="Email" required />
+                        </td>
+                    </tr>
+                </table>
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
+                <small>Error Message</small>
+            </div>
+            <div class="form-control">
+                <table>
+                    <tr>
+                        <td><label>Password:</label></td>
+                        <td>
+                            <input type="password" id="t5" placeholder="Enter your Password" minlength="8" required /> 
+                        </td>
+                    </tr>
+                </table>
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
+                <small>Error Message</small>
+            </div>
+            <div class= "drop">
+            <label for="genre">Choose Your Music Style or Genre:</label>
+            <select name="genre" id="t6">
+              <option value="rock">Rock</option>
+              <option value="pop">Pop</option>
+              <option value="opera">Opera</option>
+              <option value="classical">Classical</option>
+              <option value="soul">Soul</option>
+              <option value="hiphop">Hip-hop</option>
+            </select>
+            </div>
+            <p>Please select your Gender :</p>
+            <input type="radio" id="female" name="gender" value="Female">
+            <label for="female">Female</label><br>
+            <input type="radio" id="male" name="gender" value="Male">
+            <label for="male">Male</label><br>
+            <br>
+            <input type="checkbox" name="mail" value="yes" id="response1" />I here by accept all terms and conditions of singing competition.
+            <input type="submit" value="Submit" class="btn" name="" onclick="registration()"><br>
+        </form>
+    </div>
+
+</body>
+<script src="index1.js"></script>
+</html>
