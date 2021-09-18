@@ -34,17 +34,8 @@ To define a pre-selected option, add the selected attribute to the option.
   
   
   
-  
-  document.getElementById() - returns an Element object representing the element whose id property matches the specified string.
-  
-  
-  querySelector() - returns the first element that matches the specified selectors.
-  
-  
-  
-  
+ ![s1](https://user-images.githubusercontent.com/88725002/133882573-7551adfb-8aca-46b6-85bb-62a0a80c9808.png)
 
-alert() - This method is used to display virtual alert box.
 
 
 
