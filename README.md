@@ -26,23 +26,7 @@ In HTML <input type=" "/> is an important element of HTML form. The "type" attri
   
   The <select/> element defines a drop-down list.The <option/> elements defines an option that can be selected.
 
-By default, the first item in the drop-down list is selected.
 
-  
-
-To define a pre-selected option, add the selected attribute to the option.
-
-document.getElementById() - returns an Element object representing the element whose id property matches the specified string.
-  
-  
-
-querySelector() - returns the first element that matches the specified selectors.
-  
-  
-  
-  
-
-alert() - This method is used to display virtual alert box.
 
 ## Screenshot
 ![s1](https://user-images.githubusercontent.com/88725002/133883084-eceb9237-c06e-4e39-9feb-51f8f639b026.png)
