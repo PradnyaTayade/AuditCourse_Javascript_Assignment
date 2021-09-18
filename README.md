@@ -26,6 +26,5 @@ In HTML <input type=" "> is an important element of HTML form. The "type" attrib
   
 The <select> element defines a drop-down list.The <option> elements defines an option that can be selected.
 
-  
 By default, the first item in the drop-down list is selected.
   
