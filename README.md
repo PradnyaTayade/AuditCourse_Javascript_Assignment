@@ -1,3 +1,5 @@
+![s1](https://user-images.githubusercontent.com/88725002/133882494-ff07d2de-8e27-4ba3-86d5-787a1c36a630.png)
+![s1](https://user-images.githubusercontent.com/88725002/133882512-84731528-7c5e-4465-90fa-6513b87bb1ed.png)
 # AuditCourse_Javascript_Assignment
 In this assignment i have used external javascript.
 
