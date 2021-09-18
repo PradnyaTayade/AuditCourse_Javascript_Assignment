@@ -24,22 +24,3 @@ In HTML <input type=" "> is an important element of HTML form. The "type" attrib
   
   The <input> element type number creates input filed which allows a user to enter the numeric value. You can also restrict to enter a minimum and maximum value using min and max attribute.
   
-  The <select> element defines a drop-down list.The <option> elements defines an option that can be selected.
-
-By default, the first item in the drop-down list is selected.
-
-  
-
-To define a pre-selected option, add the selected attribute to the option.
-
-document.getElementById() - returns an Element object representing the element whose id property matches the specified string.
-  
-  
-
-querySelector() - returns the first element that matches the specified selectors.
-  
-  
-  
-  
-
-alert() - This method is used to display virtual alert box.
