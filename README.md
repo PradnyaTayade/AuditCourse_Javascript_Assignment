@@ -1,40 +1,16 @@
+# AuditCourse-Assignment-3
 
-# AuditCourse_Javascript_Assignment
-In this assignment i have used external javascript.
+## Language Used
+  - HTML, CSS, Javascript.
+## About the Assignment
+ - The project contains webpage made from HTML & Styled by CSS.
+ - Data Validation and collection was done with Javascript and Javascript Functions.
+ - Both CSS and Javascript were used externally to make the code much cleaner and understandable.
 
-External scripts are practical when the same code is used in many different web pages.
-
-JavaScript files have the file extension .js.
-
-To use an external script, put the name of the script file in the src (source) attribute of a <script> tag.
-  
-External scripts cannot contain <script> tags.
-   
-In HTML <input type=" "> is an important element of HTML form. The "type" attribute of input element can be various types, which defines information field. Such as:
-  <input type="text" name="name"> gives a text box.<input> element of type "text" are used to define a single-line input text field.
-  
-  The <input> element of type "password" allow a user to enter the password securely in a webpage. The entered text in password filed converted into "*" or ".", so that it cannot be read by another user. 
-  
-  The <input> element of type "submit" defines a submit button to submit the form to the server when the "click" event occurs.
-  
-  The <input> type "radio" defines the radio buttons, which allow choosing an option between a set of related options. At a time only one radio button option can be selected at a time.
-  
-  The <input> type "checkbox" are displayed as square boxes which can be checked or unchecked to select the choices from the given options.
-  
-  The <input> type "email" creates an input filed which allow a user to enter the e-mail address with pattern validation. The multiple attributes allow a user to enter more than one email address.
-  
-  The <input> element type number creates input filed which allows a user to enter the numeric value. You can also restrict to enter a minimum and maximum value using min and max attribute.
-  
-The <select> element defines a drop-down list.The <option> elements defines an option that can be selected.
-
-By default, the first item in the drop-down list is selected.
-To define a pre-selected option, add the selected attribute to the option.
+## Netlify Link
+-https://optimistic-jennings-787c69.netlify.app
 
 ## Screenshot
-![s1](https://user-images.githubusercontent.com/88725002/133882653-1e4201af-b25f-4c21-8686-e0762bc4b833.png)
-
-
-
-
-  
-  
+![Screenshot 2021-09-17 023753](https://user-images.githubusercontent.com/56954344/133685805-b086a0bd-b3f7-4e2b-aa9f-023df5145b52.png)
+![Screenshot 2021-09-17 023553](https://user-images.githubusercontent.com/56954344/133685679-7a31b558-7f79-4de8-b2a4-01cea0b56cf0.png)
+![Screenshot 2021-09-17 023625](https://user-images.githubusercontent.com/56954344/133685682-454cfefc-1b64-4279-b1e2-00022c7e53c3.png)
