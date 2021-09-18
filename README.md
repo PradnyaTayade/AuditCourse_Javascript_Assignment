@@ -30,6 +30,7 @@ The <select> element defines a drop-down list.The <option> elements defines an o
 By default, the first item in the drop-down list is selected.
 To define a pre-selected option, add the selected attribute to the option.
 
+## Screenshot
 ![s1](https://user-images.githubusercontent.com/88725002/133882653-1e4201af-b25f-4c21-8686-e0762bc4b833.png)
 
 
